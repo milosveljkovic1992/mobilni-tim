@@ -5,10 +5,12 @@ Sve značajne izmene igre Mobilni tim beleže se u ovom fajlu. Brojevi verzija p
 ## [Neobjavljeno]
 
 ### Dodato
+- Link „← Sve igre“ iznad zaglavlja, ka krovnoj aplikaciji Izborni dan (https://izborni-dan.netlify.app/).
 - Ikonica u tabu pregledača (favicon): ruta obilaska, ugrađena u `index.html` kao SVG.
 - Slika za deljenje na društvenim mrežama (`og-image.png`, 1200 × 630) i Open Graph i Twitter meta tagovi.
 
 ### Promenjeno
+- Slika za deljenje se u `og:image` i `twitter:image` navodi punom adresom (https://mobilni-tim.netlify.app/og-image.png), a dodat je i `og:url`.
 - Meta opis stranice: „Sa kolegom obilaziš devet biračkih mesta. Kroz 21 situaciju, od plana obilaska do izveštaja, odluči šta da proveriš, zabeležiš i javiš.“
 
 ### Ispravljeno
