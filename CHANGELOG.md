@@ -6,6 +6,10 @@ Sve značajne izmene igre Mobilni tim beleže se u ovom fajlu. Brojevi verzija p
 
 ### Dodato
 - Ikonica u tabu pregledača (favicon): ruta obilaska, ugrađena u `index.html` kao SVG.
+- Slika za deljenje na društvenim mrežama (`og-image.png`, 1200 × 630) i Open Graph i Twitter meta tagovi.
+
+### Promenjeno
+- Meta opis stranice: „Sa kolegom obilaziš devet biračkih mesta. Kroz 21 situaciju, od plana obilaska do izveštaja, odluči šta da proveriš, zabeležiš i javiš.“
 
 ### Ispravljeno
 - Slovna greška u situaciji sa kombijima ispred biračkog mesta 1: „prozivka“ umesto „proziva“.
