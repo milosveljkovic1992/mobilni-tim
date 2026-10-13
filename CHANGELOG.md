@@ -4,6 +4,12 @@ Sve značajne izmene igre Mobilni tim beleže se u ovom fajlu. Brojevi verzija p
 
 ## [Neobjavljeno]
 
+### Dodato
+- Ikonica u tabu pregledača (favicon): ruta obilaska, ugrađena u `index.html` kao SVG.
+
+### Ispravljeno
+- Slovna greška u situaciji sa kombijima ispred biračkog mesta 1: „prozivka“ umesto „proziva“.
+
 ## [1.0.0] - 2026-10-13
 
 ### Dodato
