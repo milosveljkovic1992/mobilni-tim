@@ -10,6 +10,7 @@ Sve značajne izmene igre Mobilni tim beleže se u ovom fajlu. Brojevi verzija p
 - Slika za deljenje na društvenim mrežama (`og-image.png`, 1200 × 630) i Open Graph i Twitter meta tagovi.
 
 ### Promenjeno
+- Naslov za deljenje (`og:title`, `twitter:title`): „Mobilni tim – znaš li kada da reaguješ?“.
 - Slika za deljenje se u `og:image` i `twitter:image` navodi punom adresom (https://mobilni-tim.netlify.app/og-image.png), a dodat je i `og:url`.
 - Meta opis stranice: „Sa kolegom obilaziš devet biračkih mesta. Kroz 21 situaciju, od plana obilaska do izveštaja, odluči šta da proveriš, zabeležiš i javiš.“
 
